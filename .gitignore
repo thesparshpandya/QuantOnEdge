@@ -1,0 +1,13 @@
+# Python System Files
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Our Project Data
+Data/pdfs/
+Data/vector_db/
+Data/stocks/
+
+# Sensitive Keys
+.env
