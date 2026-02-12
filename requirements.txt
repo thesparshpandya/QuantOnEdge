@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+pypdf
+yfinance
+streamlit
+ollama
+ipykernel
+pandas
+numpy
